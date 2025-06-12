@@ -4,7 +4,10 @@ This is my second Machine Learning Project to develop the Tennis Analysis Softwa
 
 To increase the quality of GUI Function
 
-To increase the accuracy of illustration, Matplotlib was used, Counting configurations of the ball drop-off were (Still developing with increasing court lines' accuracy) (Increasing accuracy by increasing size of segmentation of yellow Tennis Ball)
+To increase the accuracy of illustration, Matplotlib was used, Counting configurations of the ball drop-off were (Still developing with increasing court lines' accuracy) 
+
+
+(Increasing accuracy by increasing size of segmentation of yellow Tennis Ball)
 
 To increase the accuracy of ball detection, I have extracted white pixels of the court to detect the court lines' feature into 10 dots & several lines of the Tennis Court)
 
