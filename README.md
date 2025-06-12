@@ -24,3 +24,5 @@ This project combines computer vision, object tracking, and performance analytic
 GPU Details :  NVIDIA GeForce GTX 1650 Ti, CUDA
 Yolo version : Yolo12
 
+
+Output : https://youtu.be/jgi0QUYgxmY
